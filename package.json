@@ -1,0 +1,28 @@
+{
+  "name": "projetousuario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaginimaru/ProjetoUsuario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaginimaru/ProjetoUsuario/issues"
+  },
+  "homepage": "https://github.com/kaginimaru/ProjetoUsuario#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status": "^1.4.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5",
+    "start": "^5.1.0"
+  }
+}
